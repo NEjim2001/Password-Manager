@@ -23,9 +23,8 @@ Before running the application, ensure you have the following installed:
 ## Getting Started
 
 1. Clone the repository to your local machine:
-
     ```bash
-    git clone https://github.com/NEjim2001/password-manager.git
+    git clone https://github.com/NEjim2001/Password-Manager.git
     ```
 
 2. Navigate to the project directory:
