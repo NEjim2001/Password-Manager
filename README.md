@@ -30,7 +30,7 @@ Before running the application, ensure you have the following installed:
 2. Navigate to the project directory:
 
     ```bash
-    cd password-manager
+    cd Password-Manager
     ```
 
 3. Install the required packages:
